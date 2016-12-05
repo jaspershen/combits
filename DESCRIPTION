@@ -1,0 +1,16 @@
+Package: combits
+Type: Package
+Title: combits
+Version: 1.0.0
+Date: 2016-12-05
+Author: Xiaotao Shen
+Maintainer: Xiaotao Shen<shenxt@sioc.ac.cn>
+Description: Complete bits.
+LazyData: true
+Depends: R
+License: LGPL-2
+URL: https://github.com/jaspershen/combits
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
